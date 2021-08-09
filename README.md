@@ -1,4 +1,4 @@
 # to-do-list
 ## My first javascript project
 
-[пример][https://vladbobarika.github.io/to-do-list/]
+[Watch DEMO](https://vladbobarika.github.io/to-do-list/)
